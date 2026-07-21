@@ -2,8 +2,12 @@
 
 A recreated and enhanced version of the popular [The New York Times Wordle](https://www.nytimes.com/games/wordle/index.html) game, built using the Pygame library. This project features multiple game modes, user account management, leaderboards, and game state saving.
 
-This is the final project for the **Fundamentals of Programming for Artificial Intelligence** course for first-year Artificial Intelligence students at the University of Science, VNU-HCM (HCMUS).
+This is the final project for the **Fundamentals of Programming for Artificial Intelligence** course for first-year Artificial Intelligence students at the University of Science, VNU-HCM (HCMUS), done from January to February 13, 2026.
 
+---
+## ⚠️ Warning
+
+Source code is badly written and could cause you health problems from reading it. This is because I haven't learnt Object-Oriented Programming and source code is mostly self-written, with insignificant parts generated/suggested by LLM models.
 ---
 
 ## 🚀 Getting Started
