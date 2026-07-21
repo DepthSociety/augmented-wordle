@@ -8,6 +8,7 @@ This is the final project for the **Fundamentals of Programming for Artificial I
 ## ⚠️ Warning
 
 Source code is badly written and could cause you health problems from reading it. This is because I haven't learnt Object-Oriented Programming and source code is mostly self-written, with insignificant parts generated/suggested by LLM models.
+
 ---
 
 ## 🚀 Getting Started
